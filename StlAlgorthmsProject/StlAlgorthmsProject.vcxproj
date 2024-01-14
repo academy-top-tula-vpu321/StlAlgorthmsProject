@@ -129,6 +129,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="StlAlgorthmsProject.cpp" />
+    <ClCompile Include="User.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="User.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
